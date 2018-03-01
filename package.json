@@ -1,6 +1,6 @@
 {
   "name": "genVersion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto set version in package.json var current branch ",
   "main": "lib/index.js",
   "repository": {
